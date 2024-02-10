@@ -1,0 +1,460 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "ai"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "mobile"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "business"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "marketing"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "web"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "devfest",
+      "type": "hackathon",
+      "date": "2024_02_10",
+      "description": "lorem ipsum",
+      "drive": "fdsafsdafad",
+      "thumbnail": "fasdfsdfsdf",
+      "judges": [
+        {
+          "id": 1,
+          "name": "daho",
+          "role": "code",
+          "email": "fsdaf@fdsa.com",
+          "password": "fsdfsdafsad",
+          "eventJudgment": [
+            {
+              "judgment": 10,
+              "team": 1,
+              "field": "code"
+            },
+            {
+              "judgment": 5,
+              "team": 2,
+              "field": "design"
+            }
+          ]
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "team 01",
+          "participants": [
+            {
+              "id": 1,
+              "name": "afdsfdsa",
+              "email": "fsaasf@fds",
+              "linkdin": "fdsafdsfdsa"
+            }
+          ],
+          "submissions": [
+            {
+              "field": "code",
+              "submission": "dsfafdsafdsa"
+            }
+          ]
+        }
+      ],
+      "mentors": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com",
+          "role": "design"
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "fsafas",
+          "email": "fdsaaf@fdsa.com"
+        }
+      ],
+      "fields": [
+        {
+          "name": "code",
+          "criterias": [
+            {
+              "name": "fsdaasf",
+              "scrore": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
